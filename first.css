@@ -1,0 +1,54 @@
+body{
+    background-color: rosybrown;
+}
+h1 {
+color: rgb(228, 120, 19);
+background-color:white;
+text-align: center;
+font-size: 30px;
+font-family: 'Courier New', Courier, monospace;
+font-style: italic;
+text-shadow: 5px, 10px red;
+}
+
+.header {
+    text-align: Center;
+    background-color: brown;
+
+}
+#catPhotos {
+    border: 10px solid blue;
+    width: 30%;
+    height: 300px;
+    margin: 50px;
+    
+
+}
+h5{
+    border: solid 2px;
+    border-radius: 20px;
+    width:15%;
+    text-align: center;
+    text-transform: uppercase;
+    padding: 15px;
+ 
+}
+ol{
+    background-color: burlywood;
+    padding: 20px;
+  
+
+}
+ol li{
+    padding: 10px;
+    border: 10px solid green;
+    margin: 5px;
+}
+label{
+    text-shadow: 5px, 10px pink;
+}
+
+.submit:hover {
+    
+    background-color: blue;
+}

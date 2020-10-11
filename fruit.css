@@ -1,0 +1,93 @@
+body{
+    background-color: rgb(224, 58, 58);
+    font-family: sans-serif;
+    /* margin: 500px; */
+    /* border: 2px solid black; */
+    /* padding: 50px 100px 50px 50px;
+    border-radius: 20px;
+     */
+}
+/* 
+.flex-container{
+    display: flex;
+    align-items: center;
+    background-image: url("fruitbowl.jpg");
+    height: 200px; /* You must set a specified height */
+    /* background-position: center;
+    background-origin: content-box; 
+} */
+
+.registration-page{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+    width: 100%;
+    height: 100%;
+    
+}
+.registration-section{
+     width: 60%;
+     height: 65%;
+    border: 2px solid white;
+    /* padding: 40px; */
+    background-color: white;
+    border-radius: 5px;
+    display:grid;
+    grid-template-columns: 25% 75%;
+    grid-gap: 0px;
+    
+    
+    /* text-align: center; */
+}
+.input-class
+{
+    border: none;
+    border-bottom: 1px solid #cccc;
+    width: 100%;
+    outline: none;
+    padding-bottom: 10px;
+    margin-bottom: 30px;
+    color: gray;
+
+}
+
+.half-width{
+    width: 48%;
+    margin-left: 0px;
+}
+
+.button{
+    background-color:rgb(45, 186, 82);
+    padding: 7px;
+    padding-left: 20px;
+    padding-right: 20px;
+    margin: 3px;
+    color: white;
+    border-radius: 5px;
+    border: none;
+    margin-top: 30px;
+    margin-bottom: 30px;
+    
+}
+.title{
+    text-align: left;
+    margin-bottom: 35px;
+}
+.birthday{
+margin-right: 19px;
+}
+.bgimage{
+    background-image: url("fruitbowl.jpg");
+    padding: 0px;
+    margin: 0px;
+    width: 100%;
+    height: 100%;
+    background-size:cover;
+   
+    
+}
+.registration-info{
+    padding: 20px;
+    
+}

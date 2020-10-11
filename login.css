@@ -1,0 +1,45 @@
+body{
+    background-color: cornflowerblue;
+    text-align: center;
+   
+}
+h1{
+    
+    /* margin-top: 150px; */
+}
+.email{
+    text-align: center;
+    /* margin-left: 45%; */
+    border: 2px solid white;
+    border-radius: 20px;
+    margin-bottom: 10px;
+    
+}
+.pass{
+    text-align: center;
+    /* margin-left: 45%; */
+    border: 2px solid white;
+    border-radius: 20px;
+    margin-bottom: 20px;
+    
+}
+.submit{
+    background-color: yellowgreen;
+    text-decoration-color: white;
+    /* margin-left: 45%; */
+    width:165px;
+    border: 2px solid greenyellow;
+    border-radius: 20px;
+    margin-bottom: 20px;
+}
+a{
+    /* margin-left: 45%; */
+}
+div{
+    border: 2px solid black;
+    padding: 5px;
+    width: 50%;
+    margin: auto; position: absolute; left: 0; right: 0 ;top:30%;
+    border-radius:20px ;
+    
+}
